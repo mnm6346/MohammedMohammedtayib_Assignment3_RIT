@@ -1,0 +1,31 @@
+"    
+**Encounter**
+Physican Name=Osama
+Patient Name=Abdullah
+date=10-12-2021
+disease=headache
+medication=Panadol","    
+**Encounter**
+Physican Name=Amir
+Patient Name=Nashwan
+date=12-12-2020
+disease=Fever
+medication=acetaminophen","    
+**Encounter**
+Physican Name=Khalid
+Patient Name=Ali
+date=30-6-2021
+disease=Flu
+medication= Guaifenesin","    
+**Encounter**
+Physican Name=Khalid
+Patient Name=Omar
+date=3-6-2021
+disease=cough
+medication=Dextromethorphan","    
+**Encounter**
+Physican Name=Amir
+Patient Name=Waseem
+date=7-9-2021
+disease=Diabetes
+medication=Insulin"
